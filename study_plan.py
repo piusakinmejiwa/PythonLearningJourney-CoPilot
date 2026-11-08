@@ -1,0 +1,8 @@
+print("PYTHON STUDY PLAN")
+print("------------------------------")
+print("Monday: Python Basics and Syntax")
+print("Tuesday: Pracice")
+print("Wednesday: Data Skils")
+print("Thursday: Mini Project")
+print("Friday: Annoation Tools")
+print("Saturday: Portfolio")

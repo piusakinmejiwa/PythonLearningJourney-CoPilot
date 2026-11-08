@@ -1,0 +1,7 @@
+print("Hello")
+# print()
+print("My name is Pius Ayodele Akinmejiwa")
+print("I live in London, United Kingdom")
+print("I work with Quevora.")
+print("I am learning Python Progamming Language and I'm enjoying it very much!")
+print("My goal is to become an expert Python Programer and Developer!")

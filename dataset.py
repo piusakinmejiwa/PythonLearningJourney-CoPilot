@@ -1,0 +1,1 @@
+texts = ["Excellent product", "Poor Customer Service", "Average Quality"]

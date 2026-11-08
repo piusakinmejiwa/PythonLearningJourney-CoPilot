@@ -1,0 +1,6 @@
+print("Hello World")
+print("My name is Pius")
+print("I am learning Python Programming Language")
+print("I am enjoying it")
+print("My goal is to become an AI Developer, Machine Language Engineer, and Data Scientist and also work 20 hours a week as a freelancer")
+print("I am an expert in Python Programming Language")

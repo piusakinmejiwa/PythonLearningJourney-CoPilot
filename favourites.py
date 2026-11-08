@@ -1,0 +1,6 @@
+print("My favourite food: Pizza")
+print("My favorite drink: Coffee")
+print("My favourite City: London")
+print("My real favourite food: Tuna Salad")
+print("My real favourite drink: Water")
+print("My real favourite City: Lagos")

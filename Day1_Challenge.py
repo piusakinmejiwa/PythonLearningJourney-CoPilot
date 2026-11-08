@@ -1,0 +1,8 @@
+print("DATA ANNOTATION & EXPERT PYTHON PROGRAMMER STUDY PLAN")
+print("")
+print("Month 1: Learn Python")
+print("Month 2: Work with Data")
+print("Month 3: Learn Pandas")
+print("Month 4: Learn Annotation Tools")
+print("Month 5: Build Projects")
+print("Month 6: Apply for Jobs")

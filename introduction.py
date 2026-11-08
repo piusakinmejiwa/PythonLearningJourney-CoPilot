@@ -1,0 +1,5 @@
+print("Name: Pius")
+print("Location: London, United Kingdom")
+print("Company: Quevora, MobiCova Technologies, Avenetic, MobiCova, Mobicova Health")
+print("Goal: Become an AI Data Annotator, AI Developer, Machine Learning Engineer, and Data Scientist and also work 20 hours a week as a freelancer")
+print("Study Tme: 3 hours a day")
